@@ -31,14 +31,9 @@
             "title": "page 3"
         }, 
         {
-            "location": "/../page4/", 
-            "text": "Page 4", 
+            "location": "/external_folder/HowTo1/", 
+            "text": "../../../page4.md", 
             "title": "Section 3.1"
-        }, 
-        {
-            "location": "/../page4/#page-4", 
-            "text": "", 
-            "title": "Page 4"
         }
     ]
 }
