@@ -11,20 +11,4 @@
         
     
 
-    
-        
-    <url>
-     <loc>/folder2/page2/</loc>
-     <lastmod>2018-01-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/folder2/page3/</loc>
-     <lastmod>2018-01-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
 </urlset>
