@@ -1,16 +1,6 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nThis is the index page.", 
-            "title": "Test"
-        }, 
-        {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "This is the index page.", 
-            "title": "Welcome to MkDocs"
-        }, 
-        {
             "location": "/folder1/page1/", 
             "text": "Page 1", 
             "title": "Introduction to Doc"

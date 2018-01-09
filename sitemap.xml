@@ -4,16 +4,6 @@
     
         
     <url>
-     <loc>/</loc>
-     <lastmod>2018-01-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    
-
-    
-        
-    <url>
      <loc>/folder1/page1/</loc>
      <lastmod>2018-01-09</lastmod>
      <changefreq>daily</changefreq>
