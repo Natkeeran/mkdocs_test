@@ -1,6 +1,16 @@
 {
     "docs": [
         {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nThis is the index page.", 
+            "title": "Test"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "This is the index page.", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
             "location": "/folder1/page1/", 
             "text": "Page 1", 
             "title": "Introduction to Doc"
@@ -29,6 +39,11 @@
             "location": "/folder2/page3/#page-3", 
             "text": "", 
             "title": "page 3"
+        }, 
+        {
+            "location": "/external_folder/HowTo1/", 
+            "text": "../../../page4.md", 
+            "title": "Section 3.1"
         }
     ]
 }
