@@ -41,9 +41,14 @@
             "title": "page 3"
         }, 
         {
-            "location": "/folder3/CONTRIBUTING/", 
-            "text": "../../CONTRIBUTING.md", 
+            "location": "/folder3/page4/", 
+            "text": "Page 4", 
             "title": "How to contribute"
+        }, 
+        {
+            "location": "/folder3/page4/#page-4", 
+            "text": "", 
+            "title": "Page 4"
         }
     ]
 }
