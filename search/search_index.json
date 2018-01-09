@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/folder3/page4/", 
-            "text": "../../page4.md", 
+            "text": "../../CONTRIBUTING.md", 
             "title": "Section 3.1"
         }
     ]
