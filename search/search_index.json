@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/external_folder/HowTo1/", 
-            "text": "../../../page4.md", 
+            "text": "../page4.md", 
             "title": "Section 3.1"
         }
     ]
