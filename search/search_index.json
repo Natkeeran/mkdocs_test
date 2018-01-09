@@ -1,6 +1,16 @@
 {
     "docs": [
         {
+            "location": "/", 
+            "text": "Welcome to MkDocs\n\n\nThis is the index page.", 
+            "title": "Welcome"
+        }, 
+        {
+            "location": "/#welcome-to-mkdocs", 
+            "text": "This is the index page.", 
+            "title": "Welcome to MkDocs"
+        }, 
+        {
             "location": "/folder1/page1/", 
             "text": "Page 1", 
             "title": "Introduction to Doc"
@@ -9,6 +19,26 @@
             "location": "/folder1/page1/#page-1", 
             "text": "", 
             "title": "Page 1"
+        }, 
+        {
+            "location": "/folder2/page2/", 
+            "text": "Page 2", 
+            "title": "Section 2.1"
+        }, 
+        {
+            "location": "/folder2/page2/#page-2", 
+            "text": "", 
+            "title": "Page 2"
+        }, 
+        {
+            "location": "/folder2/page3/", 
+            "text": "page 3", 
+            "title": "Section 2.2"
+        }, 
+        {
+            "location": "/folder2/page3/#page-3", 
+            "text": "", 
+            "title": "page 3"
         }
     ]
 }
