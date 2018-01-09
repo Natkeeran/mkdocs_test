@@ -31,9 +31,14 @@
             "title": "page 3"
         }, 
         {
-            "location": "/external_folder/HowTo1/", 
-            "text": "../../Notes/CLAW Playbook in DO VM.md", 
+            "location": "/../page4/", 
+            "text": "Page 4", 
             "title": "Section 3.1"
+        }, 
+        {
+            "location": "/../page4/#page-4", 
+            "text": "", 
+            "title": "Page 4"
         }
     ]
 }
